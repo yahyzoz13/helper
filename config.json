@@ -1,0 +1,13 @@
+{    
+    "prefix": ".",        
+    "owners": ["961013398693380169"],
+    "botid": "919636648415879219",
+    "error_logs": "1001267798590361662", 
+    "success_logs": "1001267945684598925",
+    "timeout": 300000,
+    "errorembedemoji": "<:no:957144549698986015>",
+    "correctembedemoji": "<a:yes:962966293764505620>",
+    "pinembedemoji": " <a:yes:962966293764505620>",
+    "menuembedemoji": " <a:yes:962966293764505620>",
+    "disable_fetching": true
+}
